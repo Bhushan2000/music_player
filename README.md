@@ -1,16 +1,50 @@
-# music_player
+# 🎵 Music Player App (Flutter)
 
-A new Flutter project.
+A beautifully designed and fully functional **offline music player app** built using **Flutter** and **Provider state management**.  
+It scans local audio files, displays playlists, and provides smooth playback controls with an elegant neumorphic UI.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🎧 **Play local songs** stored on the device  
+- 🖼️ Beautiful **neumorphic UI design**  
+- ▶️ **Play / Pause / Seek** controls  
+- ⏭️ Skip Next / Previous  
+- 🔁 Repeat & 🔀 Shuffle  
+- 🎚️ Seekbar with real-time duration updates  
+- 📂 Auto-detect and load audio from device storage  
+- 📱 Background play support  
+- ❤️ Favorite songs (UI placeholder, expandable)  
+- 🔊 Volume and audio session management  
+- 📦 Built with clean project structure & Provider (state management)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- **Flutter** (3.x)
+- **Dart**
+- **Provider** (state management)
+- **just_audio** (audio playback)
+- **audio_session**
+- **permission_handler**
+- **neumorphic UI components**
+
+---
+
+### 📸 App UI Preview
+
+| Home Screen | Player Screen | Playlist Screen |
+|-------------|---------------|-----------------|
+| ![Home](assets/screenshots/home.png) | ![Player](assets/screenshots/player.png) | ![Playlist](assets/screenshots/playlist.png) |
+
+---
+
+## 🔧 How to Run the Project
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/Bhushan2000/music_player.git
+
+
