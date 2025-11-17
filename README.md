@@ -26,11 +26,7 @@ It scans local audio files, displays playlists, and provides smooth playback con
 - **Flutter** (3.x)
 - **Dart**
 - **Provider** (state management)
-- **just_audio** (audio playback)
-- **audio_session**
-- **permission_handler**
-- **neumorphic UI components**
-
+- **audio_player** (audio player)
 ---
 
 ### 📸 App UI Preview
