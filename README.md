@@ -23,10 +23,10 @@ It scans local audio files, displays playlists, and provides smooth playback con
 
 ## 🛠️ Tech Stack
 
-- **Flutter** (3.x)
-- **Dart**
+- **Flutter** (3.38.1)
+- **Dart** (3.10.0)
 - **Provider** (state management)
-- **audio_player** (audio player)
+- **Audio Player** (audio player)
 ---
 
 ### 📸 App UI Preview
