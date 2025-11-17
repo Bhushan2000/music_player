@@ -1,4 +1,4 @@
-# 🎵 Music Player App (Flutter)
+# <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Apple_Music_icon.svg" width="32"/> Music Player App 
 
 A beautifully designed and fully functional **offline music player app** built using **Flutter** and **Provider state management**.  
 It scans local audio files, displays playlists, and provides smooth playback controls with an elegant neumorphic UI.
